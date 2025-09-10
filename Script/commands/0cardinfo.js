@@ -7,13 +7,13 @@ const fontsInfo = 28
 const colorName = "#00FFFF"
 
 module.exports.config = {
-  name: "cardinfo",
+  name: "cdin",
   version: "2.0.0",
   hasPermssion: 0,
   credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
   description: "Create a facebook user information card",
   commandCategory: "The group",
-  usages: "",
+  usages: "cdin",
   cooldowns: 5,
   dependencies: {
     "canvas": "",
